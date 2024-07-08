@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# **Webscrapping-Produk-Seblak**
-=======
 # Webscrapping-Produk-Seblak
-
-Analisis Produk Seblak dari *E-Commerce*
->>>>>>> e55e587e76b0a185c5ad2c65a7afbe3952b0fdc0
 
 ---
 
