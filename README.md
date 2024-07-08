@@ -34,4 +34,3 @@ Dari analisa data yang telah dilakukan, adapun rekomendasi yang bisa diberikan a
 
 5. Untuk mengenai rating produk, perlu diperhatikan jenis produk mana yang bisa dijual. Namun, itu tidak terlalu untuk diperhatikan karena konsumen cenderung memberikan rating baik untuk setiap produk seblak.
 
----
