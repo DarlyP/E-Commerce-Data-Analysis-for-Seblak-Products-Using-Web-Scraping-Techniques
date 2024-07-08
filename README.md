@@ -12,7 +12,7 @@ Dalam analisis ini, kami akan menggunakan teknik web scraping untuk mengumpulkan
 
 ---
 
-## Kasus:
+## Case:
 
 Seseorang ingin meningkatkan pendapatan dengan berjualan. Sayangnya, ia tidak memiliki cukup modal untuk produksi barang dan hanya cukup untuk promosi. Terlintas di pikirannya untuk menjalankan skema *dropship* dari situs web bernama Tokopedia. Awalnya, ia cukup bingung sampai teringat, "Sepertinya jualan seblak cukup menarik." Berlandaskan pemikiran tersebut, ia kemudian memutuskan untuk menganalisis bagaimana penjualan seblak di Tokopedia. Apakah banyak orang yang menyukai seblak? Apakah banyak orang yang membeli seblak? 
 
@@ -20,7 +20,7 @@ Dengan melakukan analisis ini, diharapkan dapat memberikan gambaran yang jelas m
 
 ---
 
-## Kesimpulan
+## Conclusion
  
 Dari analisa data yang telah dilakukan, adapun rekomendasi yang bisa diberikan adalah:
 
