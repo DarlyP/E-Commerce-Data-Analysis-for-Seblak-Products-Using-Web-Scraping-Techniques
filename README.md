@@ -1,43 +1,49 @@
-# Webscrapping-Produk-Seblak
+# Web-Scraping-Seblak-Products
+
+---
+## Tools
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/) [<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />](https://seaborn.pydata.org/) [<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/) [<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />](https://www.scipy.org/) [<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/) [<img src="https://img.shields.io/badge/BeautifulSoup-430098?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />](https://www.crummy.com/software/BeautifulSoup/) [<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />](https://www.selenium.dev/)
 
 ---
 
 ## Introduction
 
-Seblak adalah makanan khas Indonesia yang telah mendapatkan popularitas yang signifikan, terutama di kalangan anak muda. Dalam era digital saat ini, banyak produk seblak yang dipasarkan melalui berbagai platform e-commerce, salah satunya adalah Tokopedia. Untuk memahami lebih dalam tentang tren, popularitas, dan kualitas produk seblak yang dijual di Tokopedia, dilakukan analisis data yang komprehensif dengan menggunakan teknik web scraping.
+Seblak is an Indonesian specialty food that has gained significant popularity, especially among young people. In today's digital era, many seblak products are marketed through various e-commerce platforms, including Tokopedia. To gain deeper insights into trends, popularity, and the quality of seblak products sold on Tokopedia, comprehensive data analysis is conducted using web scraping techniques.
 
-Web scraping adalah metode pengambilan data dari situs web secara otomatis, memungkinkan kita untuk mengumpulkan informasi yang luas dan detail dengan cepat dan efisien. Dengan web scraping, kita dapat mengumpulkan berbagai data penting seperti harga, rating, ulasan pelanggan, dan deskripsi produk. Informasi ini kemudian dianalisis untuk mendapatkan wawasan yang berharga mengenai preferensi konsumen, kualitas produk, dan strategi pemasaran yang efektif.
+Web scraping is a method of automatically extracting data from websites, enabling us to gather extensive and detailed information quickly and efficiently. With web scraping, we can collect various important data such as prices, ratings, customer reviews, and product descriptions. This information is then analyzed to obtain valuable insights into consumer preferences, product quality, and effective marketing strategies.
 
-Dalam analisis ini, kami akan menggunakan teknik web scraping untuk mengumpulkan data tentang produk seblak yang dijual di Tokopedia. Data yang dikumpulkan akan mencakup berbagai aspek seperti variasi produk, harga, popularitas, dan ulasan pelanggan. Analisis ini diharapkan dapat memberikan gambaran yang jelas tentang tren pasar seblak di Tokopedia serta membantu penjual dalam meningkatkan kualitas dan strategi pemasaran mereka. Melalui analisis ini, kami juga berharap dapat memberikan wawasan yang berguna bagi konsumen dalam memilih produk seblak terbaik di Tokopedia.
+In this analysis, I will use web scraping techniques to gather data on seblak products sold on Tokopedia. The collected data will cover various aspects such as product variations, prices, popularity, and customer reviews. This analysis aims to provide a clear overview of the seblak market trends on Tokopedia and assist sellers in enhancing their product quality and marketing strategies. Through this analysis, I also aim to offer useful insights for consumers in selecting the best seblak products on Tokopedia.
 
 ---
 
 ## Case:
 
-Seseorang ingin meningkatkan pendapatan dengan berjualan. Sayangnya, ia tidak memiliki cukup modal untuk produksi barang dan hanya cukup untuk promosi. Terlintas di pikirannya untuk menjalankan skema *dropship* dari situs web bernama Tokopedia. Awalnya, ia cukup bingung sampai teringat, "Sepertinya jualan seblak cukup menarik." Berlandaskan pemikiran tersebut, ia kemudian memutuskan untuk menganalisis bagaimana penjualan seblak di Tokopedia. Apakah banyak orang yang menyukai seblak? Apakah banyak orang yang membeli seblak? 
+Someone wants to increase their income by starting a business but lacks sufficient capital for production, only enough for promotion. They consider running a dropshipping scheme from a website called Tokopedia. Initially unsure, they recall, "Selling seblak seems quite appealing." Based on this thought, they decide to analyze the sales of seblak on Tokopedia. Are many people fond of seblak? Are there many buyers of seblak?
 
-Dengan melakukan analisis ini, diharapkan dapat memberikan gambaran yang jelas mengenai minat dan tingkat penjualan seblak di Tokopedia, sehingga ia bisa membuat keputusan yang lebih tepat dalam menjalankan bisnis dropship seblaknya.
+Through this analysis, they hope to gain a clear understanding of the interest and sales volume of seblak on Tokopedia, enabling them to make more informed decisions about starting their seblak dropshipping business.
 
 ---
 
 ## Conclusion
  
-Dari analisa data yang telah dilakukan, adapun rekomendasi yang bisa diberikan adalah:
+Based on the data analysis conducted, here are some recommendations:
 
-1. Seperti pada interpretasi #11, Harga produk seblak yang bisa dijual untuk mendapatkan keuntungan maksimal berkisar Rp 20000 namun hal itu terlalu sulit dikarenakan harga terlalu mahal jika ingin bersaing dengan kompetitor dengan harga sama yaitu kylafood dan apabila bukan mengambil produk dari Kylafood sebagai produk dropshipper. Oleh karena itu, untuk mengatasi permsalahan harga saya merekomendasikan untuk menjual seblak di kisaran harga Rp 5000 hingga Rp 10000. Karena bedasarkan interpretasi #13, semakin tinggi harga produk, konsumen cenderung untuk tidak memilih produk tersebut. Selain itu, karena keterbatasan akan biaya produksi namun cukup untuk biaya promosi, dengan harga diantara Rp 5000 hingga Rp 10000 tidak terlalu berat sehingga bisa mengatasi permasalahan akan biaya. 
+1. As discussed in interpretation #11, selling seblak at a price point that ensures maximum profit is challenging, especially when competing with established competitors like Kylafood. Therefore, I recommend selling seblak in the price range of Rp 5000 to Rp 10000. This price range is more competitive and aligns with consumer preferences, as discussed in interpretation #13, where higher prices tend to deter customers. Given the limited budget for production but enough for promotion, this price range should help manage costs effectively.
 
-2. Terkait dengan kesimpulan pertama, dengan menjual produk di harga Rp 5000 hingga Rp 10000, pastikan untuk menyiapkan budget semaksimal mungkin untuk 100 unit produk seblak. Dari data banyaknya produk seblak yang terjual, penjualan terbanyak untuk 1 jenis seblak adalah 100. Hal ini bertujuan untuk mengantisipasi kerugian.  
+2. Building on the first point, aiming to prepare a budget for up to 100 units of seblak within the chosen price range is prudent. Based on sales data, selling up to 100 units of one type of seblak minimizes risk and allows for manageable inventory management.
 
-3. Karena harga biaya produksi untuk Jabodetabek dan Non-Jabodetabek itu berbeda, maka penjual harus mengetahui target pasar yang ingin diincar. Selain itu kalkulasi jarak juga menjadi paremeter yang bisa dipertimbangkan. Jika penjual adalah orang yang berada di daerah Jabodetabek, maka bisa mencari produk seblak yang murah namun bisa menjual di harga maksimal yaitu Rp 10000 namun perlu adanya kalkulasi dengan biaya ongkos kirim. Sebaliknya jika penjual berada di luar Jabodetabek, maka penjual bisa memakai produk yang tidak jauh dari lokasi penjual untuk menghemat biaya ongkos kirim. Namun untuk harga produk mungkin bisa lebih dari Rp 10000. Kondisi ini terpenuhi jika mendapatkan konsumen yang berada di sekitar daerah penjual.
+3. Considering the differing production costs between Jabodetabek (Jakarta, Bogor, Depok, Tangerang, Bekasi) and non-Jabodetabek areas, it's crucial to target the right market. Additionally, logistics costs should be factored in—selling locally within Jabodetabek allows for slightly higher prices (up to Rp 10000) despite shipping costs, whereas selling outside this area might necessitate lower product prices to remain competitive after factoring in shipping costs. Understanding these regional dynamics will optimize pricing strategy.
 
-4. Pada data ditemukan adanya outlier pada bagian banyaknya terjual. Hal ini dikarenakan produk seblak ini mendadak *booming* atau viral sehingga terjadi banyak penjualan yang tidak wajar. Penjual perlu memperhatikan kondisi lapangan sejauh apa mana *trend* produk ini masih ada. Selain itu, data outlier pada harga produk dikarenakan alasan yang sama. Direkomendasikan kepada penjual untuk mencoba dan mendapatkan keuntungan selama 3 bulan. Kemudian, dilakukan *review* kembali mengenai permasalahan harga dan produk yang terjual. Pertimbangannya adalah untuk mengetahui sejauh mana *trend* seblak apakah akan berakhir atau bisa berlanjut.
+4. The presence of outliers in sales volume indicates sporadic spikes possibly due to viral trends. Sellers should monitor market conditions to gauge the longevity of seblak's popularity. Additionally, outliers in product pricing should be considered carefully. It's recommended to assess profitability over three months, then review pricing and product strategy based on market trends.
 
-5. Untuk mengenai rating produk, perlu diperhatikan jenis produk mana yang bisa dijual. Namun, itu tidak terlalu untuk diperhatikan karena konsumen cenderung memberikan rating baik untuk setiap produk seblak.
+5. Regarding product ratings, while consumer ratings generally tend to be positive for seblak products, it's essential to focus on selling popular types of seblak. However, since ratings are generally favorable across the board, prioritize product variety and customer satisfaction to maintain positive feedback and repeat customers.
+
+These recommendations aim to guide effective decision-making in starting a seblak dropshipping business on Tokopedia, leveraging market insights and consumer behavior data.
 
 ---
 
-**Disclaimer**: Notebook ini dibuat semata-mata untuk tujuan pembelajaran dan eksplorasi. Tidak ada maksud untuk menyinggung atau merugikan pihak mana pun. Segala konten dan analisis yang disajikan didasarkan pada data publik yang tersedia secara online. Saya melakukan proses ini untuk meningkatkan pemahaman tentang teknik dan metodologi analisis data, serta untuk mengasah keterampilan dalam mengimplementasikan algoritma dan model yang relevan dalam konteks pembelajaran data science.
-
-Dalam melakukan analisis ini, saya berusaha menjaga objektivitas dan profesionalitas dalam menginterpretasikan data yang ada. Segala kesimpulan atau rekomendasi yang disampaikan merupakan hasil dari analisis pribadi dan tidak bermaksud sebagai saran profesional dalam kapasitas tertentu. Saya berharap informasi yang diperoleh dari notebook ini dapat bermanfaat bagi siapa pun yang membacanya untuk kepentingan belajar dan pengembangan keterampilan analisis data.
+**Disclaimer**: 
+- This notebook is created solely for learning and exploration purposes. There is no intention to offend or harm any party. All content and analysis presented are based on publicly available data online. I undertake this process to enhance my understanding of data analysis techniques and methodologies and hone my skills in implementing relevant algorithms and models within the context of data science learning. In conducting this analysis, I strive to maintain objectivity and professionalism in interpreting the existing data. Any conclusions or recommendations provided result from personal analysis and are not intended as professional advice in any specific capacity. I hope the information obtained from this notebook can be useful to anyone reading it to learn and develop data analysis skills.
+- This notebook is written in Indonesian.
 
 
