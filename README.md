@@ -1,6 +1,6 @@
 ![Seblak](https://github.com/DarlyP/Web-Scraping-Seblak-Products/blob/main/Seblak.jpg)
 
-# Web-Scraping-Seblak-Products
+# E-Commerce Data Analysis for Seblak Products Using Web Scraping Techniques
 
 ---
 ## Tools
